@@ -17,8 +17,8 @@ merged into mathlib, this journey seems to have finally come to an end.
 
 The Radon-Nikodym theorem provides a necessary and sufficient condition for 
 comparing two measures, and allows us (under certain conditions) to express 
-one measure in term of another.
-The Radon-Nikodym theorem is an important theorem in measure theory and has a
+one measure in terms of another.
+The Radon-Nikodym theorem is an important result in measure theory and has a
 wide range of applications in different fields of mathematics. Most notably, 
 it can be applied in probability theory in the definition 
 of the conditional expectation and in mathematical finance through the Girsanov 
